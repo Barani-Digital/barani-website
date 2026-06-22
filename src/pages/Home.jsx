@@ -14,7 +14,6 @@ export default function Home() {
       <AboutSection />
       <WhyChooseUs />
       <FeaturedServices />
-      <TestimonialsSection />
       <PricingSection />
       <CTASection />
     </>
